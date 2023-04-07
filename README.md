@@ -1,2 +1,2 @@
-# CityBikeProject
-City Bike Project
+# CitiBikeProject
+Citi Bike Project
